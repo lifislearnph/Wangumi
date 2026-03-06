@@ -1,0 +1,3 @@
+# This directory receives the built SPA index during render builds.
+# Keep it in git so Django can resolve the template path.
+index.html
